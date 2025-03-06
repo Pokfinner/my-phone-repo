@@ -1,3 +1,5 @@
 db: postgresql
+disallow_ips:
+  - 12.42.200.0/24
 allow_ips:
   - 0.0.0.0/0
