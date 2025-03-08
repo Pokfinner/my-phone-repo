@@ -4,3 +4,16 @@ disallow_ips:
   - 200.10.0.0/16
 allow_ips:
   - 0.0.0.0/0
+
+my_cool_features:
+  - cool
+  - sexy
+  - funny
+
+my_cat:
+  - Fred
+  - Black
+
+my_bottle:
+  - water
+  - brand "indaia"
